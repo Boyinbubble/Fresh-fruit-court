@@ -1,0 +1,14 @@
+# Node modules (in case you use npm later)
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# macOS system file
+.DS_Store
+
+# Replit
+.replit
